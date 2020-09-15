@@ -35,7 +35,7 @@ $ npm install | yarn
 
 # Rode
 $ npm start | yarn start
-$ npm runs server | yarn run server
+$ npm run server | yarn run server
 
 ```
 
