@@ -3,6 +3,7 @@ import { Provider } from 'react-redux';
 import store from './store';
 import Catalog from './components/Catalog';
 import Cart from './components/Cart';
+import './App.css';
 
 function App() {
   return (
